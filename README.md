@@ -40,9 +40,7 @@ https://github.com/user-attachments/assets/cd28f87c-9fca-47aa-9dd8-c3e4f950248f
 
 </div>
   
-## printable like: soooooooooon
-
-## About the Project
+ ## About the Project
 ### **Ghost-go-round** - It Is a Halloween theme 3d printable marry-go-Round with planetary gearbox Fully design in fusion 360. in Which mini Ghost riding marry go Round.
 
 
